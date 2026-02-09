@@ -49,12 +49,12 @@
 <img src="https://skillicons.dev/icons?i=python,java,js,html,css,sql"/>
 </p>
 
----
-
 ### 🔭 Tools & Platforms
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,mysql"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,mysql"/>
 </p>
+
+---
 
 <p align="center">
   <img src="data.gif" width="400">
