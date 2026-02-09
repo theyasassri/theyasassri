@@ -50,13 +50,11 @@
 </p>
 
 ---
-
-## 📊 Cosmic GitHub Stats
+## 📊 Cosmic Gihub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=theyasassri&show_icons=true&theme=tokyonight&border_radius=15"/>
+<img src="https://github-readme-stats.vercel.app/api?username=theyasassri&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 </p>
-
 ---
 
 ## 🌌 Galactic Contribution Streak
@@ -70,7 +68,7 @@
 ## 🌠 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theyasassri&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theyasassri&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 ---
