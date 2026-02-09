@@ -36,8 +36,11 @@
 ## 🌠 Current Missions (Projects)
 
 🛸 TMDB-Movie-Analysis Project (EDA) 
-🌍 Tour Guide Package Management System  
+
+🌍 Ames-Housing-Price-Prediction System
+
 ☄️ Asteroid Hazard Prediction & Orbital Analysis Project
+
 🧠 MindScape Mobile App UI Design  
 
 ---
