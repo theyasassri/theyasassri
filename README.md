@@ -50,11 +50,12 @@
 </p>
 
 ---
-## 📊 Cosmic Gihub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=theyasassri&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+<img src="https://media.giphy.com/media/iicDrNGWxHmDrIni6j/giphy.gif" width="400">
 </p>
+
+
 ---
 
 ## 🌌 Galactic Contribution Streak
@@ -89,7 +90,7 @@
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:yasas0721@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 </p>
