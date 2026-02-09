@@ -82,15 +82,15 @@
 
 ---
 
-## 🧭 Currently Navigating Through
+## 🧭 Currently Navigating Through ##
 
 🌟 Machine Learning  
 🌟 Advanced Java & OOP  
 🌟 Data Analysis with Python  
 🌟 Internet & Web Technologies  
 🌟 Cloud Computing
----
 
+---
 ## 🛰️ Connect With Mission Control
 
 <p align="center">
