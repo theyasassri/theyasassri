@@ -1,5 +1,5 @@
 <h1 align="center">Hello I am Yasassri Ekanayake </h1>
-<h3 align="center">Data Science Explorer | Astronomy Enthusiast | IT(Specialization in Data Science) Undergraduate @ SLIIT</h3>
+<h3 align="center">Data Science Explorer | Astronomy Enthusiast | IT (Specialization in Data Science) Undergraduate @ SLIIT</h3>
 
 ---
 
@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/iicDrNGWxHmDrIni6j/giphy.gif" width="400">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
