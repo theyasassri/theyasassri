@@ -88,7 +88,7 @@
 🌟 Advanced Java & OOP  
 🌟 Data Analysis with Python  
 🌟 Internet & Web Technologies  
-
+🌟 Cloud Computing
 ---
 
 ## 🛰️ Connect With Mission Control
