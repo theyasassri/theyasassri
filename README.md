@@ -59,7 +59,7 @@
 ---
 
 <p align="center">
-  <img src="milkyway.gif" width="400">
+  <img src="data.gif" width="400">
 </p>
 
 
