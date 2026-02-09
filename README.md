@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/iicDrNGWxHmDrIni6j/giphy.gif" width="400">
+  <img src="milkyway.gif" width="400">
 </p>
 
 ---
