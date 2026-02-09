@@ -1,5 +1,12 @@
-<h1 align="center">Hello I am Yasassri Ekanayake </h1>
-<h3 align="center">Data Science Explorer | Astronomy Enthusiast | IT (Specialization in Data Science) Undergraduate @ SLIIT</h3>
+<h1 align="center">👋 Hello I am Yasassri Ekanayake</h1>
+
+<h3 align="center">
+🚀 IT Undergraduate @ SLIIT | Data Science Specialization  
+</h3>
+
+<p align="center">
+🧠 Data Science Enthusiast • 🤖 AI Explorer • 🌌 Astronomy Lover
+</p>
 
 ---
 
@@ -52,8 +59,9 @@
 ---
 
 <p align="center">
-<img src="https://media.giphy.com/media/iicDrNGWxHmDrIni6j/giphy.gif" width="400">
+  <img src="milkyway.gif" width="400">
 </p>
+
 
 
 ---
