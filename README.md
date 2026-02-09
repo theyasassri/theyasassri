@@ -35,9 +35,9 @@
 
 ## 🌠 Current Missions (Projects)
 
-🛸 TMDB-Movie-Analysis Project(EDA) 
+🛸 TMDB-Movie-Analysis Project (EDA) 
 🌍 Tour Guide Package Management System  
-☄️ Astronomy Data Science Research Projects  
+☄️ Asteroid Hazard Prediction & Orbital Analysis Project
 🧠 MindScape Mobile App UI Design  
 
 ---
