@@ -56,15 +56,9 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,mysql"/>
 </p>
 
----
-
 <p align="center">
   <img src="data.gif" width="400">
 </p>
-
-
-
----
 
 ## 🌌 Galactic Contribution Streak
 
@@ -73,15 +67,6 @@
 </p>
 
 ---
-
-## 🌠 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theyasassri&layout=compact&theme=tokyonight&cache_seconds=1800"/>
-</p>
-
----
-
 ## 🧭 Currently Navigating Through ##
 
 🌟 Machine Learning  
