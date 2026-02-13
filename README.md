@@ -82,7 +82,7 @@
 ## 🛰️ Connect With Mission Control
 
 <p align="center">
-<a href="YOUR_LINKEDIN_LINK">
+<a href="linkedin.com/in/yasassri-ekanayake-7a3789276">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
