@@ -43,6 +43,8 @@
 
 🧠 MindScape Mobile App UI Design  
 
+🧠 CLI - Coding agent
+
 ---
 
 ## 🪐 Technology Constellation
